@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
-global.owner = ['6285795431803','6282164659362', '6282331033919'] // Put your number here
-global.mods = ['6282331033919','6285795431803','6282164659362']  // Want some help?
-global.prems = ['6282331033919','6285795431803','6282164659362','6285821918425','628990745458','6283844878048'] // Premium user has unlimited limit
+global.owner = ['919633687665','919633687665', '919633687665'] // Put your number here
+global.mods = ['919633687665','919633687665','919633687665']  // Want some help?
+global.prems = ['919633687665','919633687665','919633687665','919633687665','919633687665','919633687665'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -13,8 +13,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ANDY BOTZ'
-global.author ='+6282164659362'
+global.packname = 'KRIZSER '
+global.author ='919633687665'
 
 global.multiplier = 69 // The higher, The harder levelup
 
