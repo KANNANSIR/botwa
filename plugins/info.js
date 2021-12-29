@@ -3,7 +3,7 @@ let info = `
 ╭─「 INFO BOT 」
 │
 │> Bot Recoded By :
-│• A N D Y - O F F C
+│• KRIZ-SER-OFC
 │
 │> Bot Dibuat Dengan :
 │• JavaScript via NodeJS
@@ -11,12 +11,7 @@ let info = `
 │
 │> Thanks To :
 │• Nurutomo
-│• Anti Bot
-│• Drawl Nag
-│
-│> Donasi :
-│• INDOSAT [+6285795431803]
-│• TELKOMSEL [+6282164659362]
+│• Krishnadas 
 ╰────
 `.trim()
 
