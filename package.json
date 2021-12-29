@@ -1,5 +1,5 @@
 {
-  "name": "KRIZSERV2",
+  "name": "Kriz-Ser",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KANNANSIR/KRIZSERV2.git"
+    "url": "git+https://github.com/KANNANSIR/botwaandy.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "KANNANSIR",
+  "author": "Ajmal-Achu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KANNANSIR/KRIZSERV2/issues"
+    "url": "https://github.com/KANNANSIR/botwaandy/issues"
   },
-  "homepage": "https://github.com/KANNANSIR/KRIZSERV2",
+  "homepage": "https://github.com/KANNANSIR/botwaandy",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
@@ -69,12 +69,5 @@
     "xmldom": "^0.6.0",
     "yargs": "^17.0.1",
     "yt-search": "^2.9.0"
- },
-  "nodemonConfig": {
-    "ignore": [
-      "plugins/*",
-      "session.data.json"
-    ]
   }
 }
-
