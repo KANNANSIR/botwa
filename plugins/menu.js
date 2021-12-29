@@ -19,7 +19,7 @@ const wit = moment.tz('Asia/Jayapura').format("HH:mm:ss")
 	 key: { 
           fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(m.chat ? 
-	 { remoteJid: "6285795431803-1625305606@g.us" } : {}) 
+	 { remoteJid: "919633687665-1625305606@g.us" } : {}) 
                 },
 	 message: { 
                  "videoMessage": { 
@@ -144,7 +144,7 @@ const wit = moment.tz('Asia/Jayapura').format("HH:mm:ss")
          \`\`\`${oy} 🌹\`\`\`
 
 ┌─「 I N F O - B O T Z 」
-├ BOT NAME : *ANDY-BOTZ*
+├ BOT NAME : *© KRIZSER *
 ├ VERSION : *6.8.1*
 ├ TOTAL USER : *%totalreg*
 ├ UPTIME : *%uptime*
@@ -152,7 +152,7 @@ const wit = moment.tz('Asia/Jayapura').format("HH:mm:ss")
 ├ PREFIX :*「 MULTI BANG 」*
 ├ SC ORI : 
 ├ *github.com/Nurutomo/wabot-aq*
-├ RECODE : *andyjavadams*
+├ RECODE : *Krishnadas*
 └─
 
 ┌─「 I N F O - K A M U 」
@@ -211,24 +211,24 @@ const wit = moment.tz('Asia/Jayapura').format("HH:mm:ss")
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => ''+replace[name])
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => ''+replace[name])
 conn.fakeReply(m.chat, `tak loading, sek yh!!!`, '0@s.whatsapp.net','*Hadehhhhhhh*')
-await conn.send2ButtonImg(m.chat, text.trim(), `./src/hehe.jpg`, "© A N D Y - B O T Z", 'Donasi', '.ds', 'Script Bot', '.sc', { quoted: fvideo, sendEphemeral: true, contextInfo: { mentionedJid: conn.parseMention(text), forwardingScore: 135,                 isForwarded: true ,"externalAdReply": {
+await conn.send2ButtonImg(m.chat, text.trim(), `./src/hehe.jpg`, "© KRIZSER ", 'Donasi', '.ds', 'Script Bot', '.sc', { quoted: fvideo, sendEphemeral: true, contextInfo: { mentionedJid: conn.parseMention(text), forwardingScore: 135,                 isForwarded: true ,"externalAdReply": {
           "title": `${pickRandom(['palpale','awokwkwkw','awikwok','duk tak duk'])}`,
-          "body": `${pickRandom(['follow bang','© andyjavadams','Kok bisa bang','Waduh bang','Pencet lah'])}`,
+          "body": `${pickRandom(['follow bang','© KANNANSIR ','Kok bisa bang','Waduh bang','Pencet lah'])}`,
           "mediaType": "1",
           "thumbnailUrl": `${pickRandom(['https://telegra.ph/file/6e33a92a7917a6da614c8.png','https://telegra.ph/file/4d55bd6548fe15f3929e8.png','https://telegra.ph/file/358bd1243061f415225e2.png','https://telegra.ph/file/8208c148ab682cf7bd12a.png'])}`,
-          "mediaUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/andybotz.official_','https://github.com/andyjavadams','https://wa.me/6285795431803?text=Sv+bang'])}`,
+          "mediaUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/kannanbro_f_f','https://github.com/KANNANSIR ','https://wa.me/919633687665?text=Sv+bang'])}`,
      //     "thumbnail": "https://i.ibb.co/ysTv8wY/Screenshot-20210808-112316.png",
-         "sourceUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/andybotz.official_','https://github.com/andyjavadams','https://wa.me/6285795431803?text=Sv+bang'])}`,
+         "sourceUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/kannanbro_f_f','https://github.com/KANNANSIR ','https://wa.me/919633687665?text=Sv+bang'])}`,
            }}})
-/* await conn.send2ButtonImg(m.chat, text.trim(), './src/hehe.jpg', '© A N D Y - B O T Z', 'Donasi', '.ds', 'Script Bot', '.sc', 'conversation', { sendEphemeral: true, quoted: fvideo, contextInfo : { mentionedJid: conn.parseMention(text), forwardingScore: 135,
+/* await conn.send2ButtonImg(m.chat, text.trim(), './src/hehe.jpg', '© KRIZSER ', 'Donasi', '.ds', 'Script Bot', '.sc', 'conversation', { sendEphemeral: true, quoted: fvideo, contextInfo : { mentionedJid: conn.parseMention(text), forwardingScore: 135,
                 isForwarded: true ,"externalAdReply": {
           "title": `${pickRandom(['palpale','awokwkwkwkw','awikwok','duk tak duk'])}`,
-          "body": `${pickRandom(['follow bang','© andyjavadams','Pencet lah'])}`,
+          "body": `${pickRandom(['follow bang','© KANNANSIR ','Pencet lah'])}`,
           "mediaType": "1",
           "thumbnailUrl": `${pickRandom(['https://telegra.ph/file/6e33a92a7917a6da614c8.png','https://telegra.ph/file/4d55bd6548fe15f3929e8.png','https://telegra.ph/file/358bd1243061f415225e2.png','https://telegra.ph/file/8208c148ab682cf7bd12a.png'])}`,
-          "mediaUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/andybotz.official_','https://github.com/andyjavadams','https://wa.me/6285795431803?text=Sv+bang'])}`,
+          "mediaUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/kannanbro_f_f','https://github.com/KANNANSIR ','https://wa.me/919633687665?text=Sv+bang'])}`,
      //     "thumbnail": "https://i.ibb.co/ysTv8wY/Screenshot-20210808-112316.png",
-         "sourceUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/andybotz.official_','https://github.com/andyjavadams','https://wa.me/6285795431803?text=Sv+bang'])}`,
+         "sourceUrl": `${pickRandom(['https://instagram.com/andy.official08_','https://instagram.com/kannanbro_f_f','https://github.com/KANNANSIR ','https://wa.me/919633687665?text=Sv+bang'])}`,
            }}}) */
 /* await conn.sendMessage(m.chat, text.trim(),'conversation',{quoted: fvideo, contextInfo:{"externalAdReply": {
           "title": "Bwang",
